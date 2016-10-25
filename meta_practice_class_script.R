@@ -67,3 +67,5 @@ meta_plot_forest(ex3_results_usa)
 
 meta_plot_funnel(ex3_results_canada)
 meta_plot_funnel(ex3_results_usa)
+
+
